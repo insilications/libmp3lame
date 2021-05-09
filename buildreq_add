@@ -1,0 +1,7 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+# mpg123
+nasm-bin
+ncurses-dev
+libsndfile-dev
+libsndfile-staticdev
